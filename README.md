@@ -170,17 +170,6 @@ AI-Resume-Builder/
 │
 └── README.md
 ```
-
----
-
-## 🤝 Contributing
-Pull requests are welcome. For major changes, open an issue first.
-
----
-
-## 📜 License
-MIT License
-
 ---
 
 ## 💬 Contact  
