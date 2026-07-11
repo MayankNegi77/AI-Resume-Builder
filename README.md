@@ -151,28 +151,6 @@ Run:
 npm run dev
 ```
 
----
-
-## 🌐 Deployment Guide
-
-### **Backend on Render**
-- Root Directory → `server`
-- Build Command → `npm install`
-- Start Command → `npm start`
-- Add environment variables  
-- Deploy  
-
-### **Frontend on Vercel**
-- Root Directory → `client`
-- Framework → Vite  
-- Add env:  
-```
-VITE_API_URL=https://your-backend.onrender.com
-```
-- Deploy  
-
----
-
 ## 📁 Folder Structure
 ```
 AI-Resume-Builder/
