@@ -206,6 +206,5 @@ MIT License
 ---
 
 ## 💬 Contact  
-**Sanjay Singh Rawat**  
-GitHub: https://github.com/sanjayrawatt  
-Portfolio: https://sanjay-singh-rawat-portfolio.netlify.app/
+**Mayank Singh Negi**  
+GitHub: https://github.com/MayankNegi77
