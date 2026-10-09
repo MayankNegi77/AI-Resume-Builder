@@ -101,15 +101,10 @@ This project uses **separate frontend and backend deployments (Vercel + Render)*
 
 ## 🛠 Installation & Setup
 
-### 1️⃣ Clone Repo
-```bash
-git clone https://github.com/sanjayrawatt/AI-Resume-Builder.git
-cd AI-Resume-Builder
-```
 
 ---
 
-### 2️⃣ Backend Setup
+### Backend Setup
 ```bash
 cd server
 npm install
