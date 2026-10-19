@@ -3,18 +3,6 @@
 Create, enhance, and download professional resumes using an AI-powered full-stack application.  
 Built with **React + Vite**, **Node.js**, **Express**, **MongoDB**, **Google Gemini AI**, and **ImageKit**.
 
----
-
-## 🚀 Live Demo
-
-### 🌐 Frontend  
-🔗 https://ai-resume-builder-rho-snowy.vercel.app/
-
-### 🟩 Backend API  
-🔗 https://ai-resume-builder-backend-ielq.onrender.com/
-
----
-
 ## 📖 About the Project
 
 The **AI Resume Builder** is a modern SaaS-style resume creation tool powered by AI. It enables users to:
