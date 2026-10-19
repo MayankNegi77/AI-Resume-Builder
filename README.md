@@ -79,12 +79,6 @@ This project uses **separate frontend and backend deployments (Vercel + Render)*
 ### AI  
 - Google Gemini API  
 - OpenAI-compatible REST endpoint  
-
-### Deployment  
-- **Frontend:** Vercel  
-- **Backend:** Render  
-- **Database:** MongoDB Atlas  
-
 ---
 
 ## 🛠 Installation & Setup
